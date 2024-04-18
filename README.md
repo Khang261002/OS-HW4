@@ -45,5 +45,7 @@ To run the program:
 Example:
 ```bash
 g++ hw4.cpp -o hw4
+```
+```bash
 hw4 "1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5" 4
 ```
